@@ -106,7 +106,8 @@ menu:
     url:               /data-structure/ 
   - title:             Data Mining
     url:               /data-mining/ 
-  
+  - title:             Paper Survey
+    url:               /paper-survey/ 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
