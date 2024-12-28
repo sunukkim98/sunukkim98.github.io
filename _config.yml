@@ -108,6 +108,8 @@ menu:
     url:               /data-mining/ 
   - title:             Paper Survey
     url:               /paper-survey/ 
+  - title:             Code Dictionary
+    url:               /code-dictionary/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
