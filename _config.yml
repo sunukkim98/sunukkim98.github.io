@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Sunuk Kim @ SSU"
-title_separator          :
+title_separator          : "-"
 name                     : &name "Sunuk Kim"
 description              : &description ""
 url                      : https://sunukkim98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" #"light" (default), "dark"
+    colorscheme          : "light" #"light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sunuk Kim"
-  avatar           : ""
-  bio              : ""
+  avatar           : "sunukkim.jpeg"
+  bio              : "Integrated M.S.–Ph.D. student at Soongsil University"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           :
@@ -99,7 +99,7 @@ author:
   github           : "sunukkim98"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : ""
