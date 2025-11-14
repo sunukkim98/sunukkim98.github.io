@@ -20,7 +20,7 @@ Education
 <ul class="cv-education" style="list-style:none; padding:0; margin:0;">
   <li style="margin-bottom:1.25rem;">
     <div style="overflow:hidden;">
-      <strong style="font-weight:700;">Integrated M.S.-Ph.D. in Sofrware</strong>
+      <strong style="font-weight:700;">Integrated M.S.-Ph.D. in Software</strong>
       <span style="float:right; color:#666; font-size:0.9em;">Present</span>
     </div>
     <div style="margin-top:0.1rem;">Soongsil University</div>
