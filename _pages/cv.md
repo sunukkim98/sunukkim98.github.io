@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Education
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+<ul class="cv-education" style="list-style:none; padding:0; margin:0;">
+  <li style="margin-bottom:1.25rem;">
+    <div style="overflow:hidden;">
+      <strong style="font-weight:700;">Integrated M.S.-Ph.D. in Sofrware</strong>
+      <span style="float:right; color:#666; font-size:0.9em;">Present</span>
+    </div>
+    <div style="margin-top:0.1rem;">Soongsil University</div>
+    <div style="margin-top:0.1rem;">Advisor: Prof. Jinhong Jung</div>
+  </li>
+
+  <li style="margin-bottom:1.25rem;">
+    <div style="overflow:hidden;">
+      <strong style="font-weight:700;">B.S. in Computer Engineering</strong>
+      <span style="float:right; color:#666; font-size:0.9em;">Aug. 2024</span>
+    </div>
+    <div style="margin-top:0.1rem;">Myongji University</div>
+  </li>
+</ul>
+
+Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<strong>External Conference Reviewer</strong>
+<ul style="margin-top:0.5rem; margin-bottom:1.5rem;">
+  <li>
+    <span>CIKM</span>
+    <span style="float:right; color:#666;">2025</span>
+  </li>
+  <li>
+    <span>WSDM</span>
+    <span style="float:right; color:#666;">2026</span>
+  </li>
+</ul>

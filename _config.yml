@@ -29,8 +29,8 @@ author:
   bio              : "Integrated M.S.–Ph.D. student at Soongsil University"
   location         : "Seoul, South Korea"
   employer         : "Soongsil University"
-  uri              : # URL
-  email            : "sunukkim@soongsil.ac.kr" 
+  uri              : https://sunukkim98.github.io # URL
+  email            : "sunukkim@soongsil.ac.kr" # Email address 
 
   # Academic websites
   academia         : # URL

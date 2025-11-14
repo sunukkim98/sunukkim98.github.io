@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Sunuk Kim",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
@@ -34,7 +34,7 @@
   "education": [
     {
       "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "area": "test",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
